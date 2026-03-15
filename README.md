@@ -65,13 +65,15 @@ http://localhost:3000
 
 ## Screenshots
 
+## Screenshots
+
 ![Cart](screenshots/cart.png)
 
-![Address](screenshots/address.png)
+![Address](screenshots/Address.png)
 
-![Payment](screenshots/payment.png)
+![Payment](screenshots/Payment.png)
 
-![Confirmation](screenshots/confirmation.png)
+![Confirmation](screenshots/Confirmation%20page.png)
 
 ## Author
 Amruthesh S P  
